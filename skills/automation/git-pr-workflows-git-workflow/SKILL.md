@@ -1,0 +1,29 @@
+---
+name: 'git-pr-workflows-git-workflow'
+description: 'Orchestrate a comprehensive git workflow from code review through PR creation, leveraging specialized agents for quality assurance, testing, and deployment readiness. This workflow implements modern'
+version: 1.0.0
+source: antigravity-awesome-skills
+tier: 3
+adopted: 2026-05-16
+batch: bulk-adoption
+---
+
+# git-pr-workflows-git-workflow
+
+"Orchestrate a comprehensive git workflow from code review through PR creation, leveraging specialized agents for quality assurance, testing, and deployment readiness. This workflow implements modern 
+
+## When to Use
+
+- Use this skill when working on tasks related to git pr workflows git workflow
+- Apply best practices from antigravity-awesome-skills
+
+## Workflow
+
+- Clarify goals, constraints, and required inputs.
+- Apply relevant best practices and validate outcomes.
+- Provide actionable steps and verification.
+- If detailed examples are required, open `resources/implementation-playbook.md`.
+
+## Source
+
+Adopted from: antigravity-awesome-skills
