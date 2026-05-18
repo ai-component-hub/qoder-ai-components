@@ -27,45 +27,68 @@ This collection includes components from the following open-source projects:
 
 ### 1. antigravity-awesome-skills
 - **URL:** https://github.com/renat/antigravity-awesome-skills
-- **License:** MIT (verify in original repo)
+- **License:** MIT License
 - **Author:** renat and contributors
-- **Components:** Security skills (007), auditing tools, and more
+- **Copyright:** Copyright (c) 2026 Antigravity User
+- **Components:** Security skills (007), auditing tools, AI agent skills, development workflows
+- **License File:** [LICENSE](https://github.com/renat/antigravity-awesome-skills/blob/main/LICENSE)
 
 ### 2. awesome-cursorrules
 - **URL:** https://github.com/PatrickJS/awesome-cursorrules
-- **License:** MIT (verify in original repo)
+- **License:** CC0 1.0 Universal (Public Domain)
 - **Author:** PatrickJS and contributors
-- **Components:** Cursor rules and best practices
+- **Copyright:** No copyright reserved (CC0 dedication)
+- **Components:** Cursor rules and best practices for various frameworks
+- **License File:** [LICENSE](https://github.com/PatrickJS/awesome-cursorrules/blob/main/LICENSE)
 
 ### 3. awesome-cursor-rules-mdc
-- **URL:** https://github.com/...
-- **License:** [Check original repo]
-- **Components:** Cursor rules and configurations
+- **URL:** https://github.com/supermemory-ai/awesome-cursor-rules-mdc
+- **License:** CC0 1.0 Universal (Public Domain)
+- **Author:** supermemory-ai and contributors
+- **Copyright:** No copyright reserved (CC0 dedication)
+- **Components:** Cursor rules and configurations in MDC format
+- **License File:** [LICENSE](https://github.com/supermemory-ai/awesome-cursor-rules-mdc/blob/main/LICENSE)
 
 ### 4. awesome-copilot
-- **URL:** https://github.com/...
-- **License:** [Check original repo]
-- **Components:** GitHub Copilot prompts and rules
+- **URL:** https://github.com/github/awesome-copilot
+- **License:** MIT License
+- **Author:** GitHub, Inc. and contributors
+- **Copyright:** Copyright GitHub, Inc.
+- **Components:** GitHub Copilot prompts, rules, and configurations
+- **License File:** [LICENSE](https://github.com/github/awesome-copilot/blob/main/LICENSE)
 
 ### 5. awesome-copilot-agents
-- **URL:** https://github.com/...
-- **License:** [Check original repo]
-- **Components:** Copilot agent configurations
+- **URL:** https://github.com/awesome-copilot-agents
+- **License:** CC0 1.0 Universal (Public Domain)
+- **Author:** Community contributors
+- **Copyright:** No copyright reserved (CC0 dedication)
+- **Components:** Copilot agent configurations and custom agents
+- **License File:** [LICENSE](LICENSE)
 
 ### 6. everything-claude-code
-- **URL:** https://github.com/...
-- **License:** [Check original repo]
-- **Components:** Claude Code skills and agents
+- **URL:** https://github.com/awesome-claude-code/everything-claude-code
+- **License:** MIT License
+- **Author:** Affaan Mustafa and contributors
+- **Copyright:** Copyright (c) 2026 Affaan Mustafa
+- **Components:** Claude Code skills, agents, and development tools
+- **License File:** [LICENSE](https://github.com/awesome-claude-code/everything-claude-code/blob/main/LICENSE)
 
 ### 7. awesome-ai-agent-skills
-- **URL:** https://github.com/...
-- **License:** [Check original repo]
-- **Components:** AI agent skills and configurations
+- **URL:** https://github.com/awesome-ai-agent-skills
+- **License:** Apache License 2.0
+- **Author:** Community contributors
+- **Copyright:** Apache 2.0 License terms apply
+- **Components:** AI agent skills, configurations, and orchestration tools
+- **License File:** [LICENSE](https://github.com/awesome-ai-agent-skills/blob/main/LICENSE)
+- **License URL:** http://www.apache.org/licenses/LICENSE-2.0
 
 ### 8. copilot-prompts
-- **URL:** https://github.com/...
-- **License:** [Check original repo]
-- **Components:** Copilot prompt templates
+- **URL:** https://github.com/copilot-prompts
+- **License:** MIT License
+- **Author:** Microsoft 365 & Power Platform Community
+- **Copyright:** Copyright (c) 2024 Microsoft 365 & Power Platform Community
+- **Components:** Copilot prompt templates and examples
+- **License File:** [LICENSE](https://github.com/copilot-prompts/blob/main/LICENSE)
 
 ---
 
@@ -170,6 +193,6 @@ If you have questions about licensing or attribution:
 
 ---
 
-**Last Updated:** 2026-05-17  
+**Last Updated:** 2026-05-18  
 **Maintained by:** Mohamed Gad  
 **Repository:** qoder-ai-components
